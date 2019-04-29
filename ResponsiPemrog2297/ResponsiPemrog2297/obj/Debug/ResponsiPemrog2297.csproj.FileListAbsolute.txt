@@ -1,0 +1,13 @@
+D:\18.11.2297\ResponsiPemrog2297\ResponsiPemrog2297\obj\Debug\ResponsiPemrog2297.csprojAssemblyReference.cache
+D:\18.11.2297\ResponsiPemrog2297\ResponsiPemrog2297\obj\Debug\ResponsiPemrog2297.csproj.CoreCompileInputs.cache
+D:\18.11.2297\ResponsiPemrog2297\ResponsiPemrog2297\bin\Debug\ResponsiPemrog2297.exe.config
+D:\18.11.2297\ResponsiPemrog2297\ResponsiPemrog2297\bin\Debug\ResponsiPemrog2297.exe
+D:\18.11.2297\ResponsiPemrog2297\ResponsiPemrog2297\bin\Debug\ResponsiPemrog2297.pdb
+D:\18.11.2297\ResponsiPemrog2297\ResponsiPemrog2297\obj\Debug\ResponsiPemrog2297.exe
+D:\18.11.2297\ResponsiPemrog2297\ResponsiPemrog2297\obj\Debug\ResponsiPemrog2297.pdb
+D:\AMIKOM\SEMESTER 2\Pemrogaman\Responsi-master\ResponsiPemrog2297\ResponsiPemrog2297\bin\Debug\ResponsiPemrog2297.exe.config
+D:\AMIKOM\SEMESTER 2\Pemrogaman\Responsi-master\ResponsiPemrog2297\ResponsiPemrog2297\obj\Debug\ResponsiPemrog2297.exe
+D:\AMIKOM\SEMESTER 2\Pemrogaman\Responsi-master\ResponsiPemrog2297\ResponsiPemrog2297\obj\Debug\ResponsiPemrog2297.pdb
+D:\AMIKOM\SEMESTER 2\Pemrogaman\Responsi-master\ResponsiPemrog2297\ResponsiPemrog2297\bin\Debug\ResponsiPemrog2297.exe
+D:\AMIKOM\SEMESTER 2\Pemrogaman\Responsi-master\ResponsiPemrog2297\ResponsiPemrog2297\bin\Debug\ResponsiPemrog2297.pdb
+D:\AMIKOM\SEMESTER 2\Pemrogaman\Responsi-master\ResponsiPemrog2297\ResponsiPemrog2297\obj\Debug\ResponsiPemrog2297.csprojResolveAssemblyReference.cache
